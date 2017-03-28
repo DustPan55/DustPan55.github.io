@@ -1,4 +1,4 @@
 # DustPan55.github.io
-Personal Website
-Site Under Construction
+<h1>Personal Website</h1>
+<h2>Site Under Construction</h2>
 
