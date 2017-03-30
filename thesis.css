@@ -134,6 +134,7 @@ article a {
 article a:hover {
 	color: grey;
 	font-size: 220%;
+	text-decoration: none;
 }
 aside {
 	float: right;
@@ -234,6 +235,7 @@ footer.second {
 	article a:hover {
 		color: grey;
 		font-size: 220%;
+		text-decoration: none;
 	}
 	aside {
 		float: left;
