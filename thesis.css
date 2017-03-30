@@ -125,6 +125,7 @@ article {
 	padding-top: 100px;
 }
 article a {
+	color: black;
 	font-weight: bold;
 	text-decoration: none;	
 }
