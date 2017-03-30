@@ -130,7 +130,7 @@ article a {
 	font-weight: bold;
 	text-decoration: none;	
 	font-size: 200%;
-	float: center;
+	padding-left: 50%;
 }
 article a:hover {
 	color: grey;
