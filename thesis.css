@@ -133,8 +133,7 @@ article a {
 }
 article a:hover {
 	color: grey;
-	text-decoration: underline;
-	font-size: 250%;
+	font-size: 220%;
 }
 aside {
 	float: right;
@@ -224,6 +223,17 @@ footer.second {
 		margin: 0;
 		padding: 0;
 		padding-top: 20%;
+	}
+	article a {
+		text-align: center;
+		color: #405580;
+		font-weight: bold;
+		text-decoration: none;	
+		font-size: 200%;
+	}
+	article a:hover {
+		color: grey;
+		font-size: 220%;
 	}
 	aside {
 		float: left;
