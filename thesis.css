@@ -130,7 +130,11 @@ article a {
 	font-weight: bold;
 	text-decoration: none;	
 	font-size: 200%;
-	
+}
+article a:hover {
+	color: grey;
+	text-decoration: underline;
+	font-size: 250%;
 }
 aside {
 	float: right;
