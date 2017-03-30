@@ -211,12 +211,14 @@ footer.second {
 		width: 100%;
 		margin: 0;
 		padding: 0;
+		padding-top: 20%;
 	}
 	aside {
 		float: left;
 		width: 100%;
 		margin: 0;
 		padding: 0;
+		padding-top: 20%;
 	}
 }
 
