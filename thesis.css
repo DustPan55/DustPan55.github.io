@@ -123,12 +123,14 @@ section {
 	text-decoration: none;
 	width: auto;
 	height: auto;
+	margin: 0 0;
 }
 .thesispage section a:hover {
 	color: #405580;
 	text-decoration: underline;
-	font-weight: italic;
+	font-weight: none;
 	font-size: 120%;
+	margin: 0 0;
 }
 .clear {
 	clear: both;
