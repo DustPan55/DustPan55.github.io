@@ -113,35 +113,23 @@ section {
 	margin: 2% 2%;
 	text-align: center;
 }
+section h1 {
+	text-align: center;
+	padding-top: 100px;
+	float: center;
+	width: 100%;
+}
+section p {
+	text-align: center;
+	float: center;
+	width: 100%;
+}
+
+
 .clear {
 	clear: both;
 }
-article {
-	float: left;
-	margin: auto auto;
-	width: 50%;
-	height: auto;
-	padding: 4%;
-	padding-top: 100px;
-}
-article a {
-	color: black;
-	font-weight: bold;
-	text-decoration: none;	
-}
-article a:hover {
-	color: #405580;
-	font-size: 120%;
-	text-decoration: underline;
-}
-aside {
-	float: right;
-	margin: 0 auto;
-	width: 35%;
-	height: auto;
-	padding: 3%;
-	padding-top: 100px;
-}
+
 ul.courses li {
 	padding-left: 3%;
 }
