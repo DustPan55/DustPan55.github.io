@@ -113,6 +113,9 @@ section {
 	margin: 2% 2%;
 	text-align: center;
 }
+section p{
+	text-align: left;
+}
 .clear {
 	clear: both;
 }
