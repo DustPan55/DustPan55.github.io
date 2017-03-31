@@ -120,7 +120,7 @@ div.thesispage section {
 }
 .box {
 	font-weight: bold;
-	-webkit-transition: all .5s;
+	-webkit-transition: all 1s;
 	border-radius: 5px;
 	line-height: 50px;
 	color:white;
