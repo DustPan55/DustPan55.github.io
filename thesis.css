@@ -113,10 +113,20 @@ section {
 	margin: 2% 2%;
 	text-align: center;
 }
-div.thesispage section {
+.thesispage section {
 	width: 100%;
 	margin-top: 10%;
 	text-align: center;
+}
+.thesispage section a {
+	color: black;
+	text-decoration: none;
+}
+.thesispage section a:hover {
+	color: #405580;
+	text-decoration: underline;
+	font-weight: bold italic;
+	font-size: 120%;
 }
 .clear {
 	clear: both;
