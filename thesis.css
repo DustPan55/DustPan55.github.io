@@ -113,18 +113,19 @@ section {
 	margin: 2% 2%;
 	text-align: center;
 }
-.thesispage section {
+div.thesispage section {
 	width: 100%;
 	margin-top: 10%;
 	text-align: center;
 }
-.downloadthesis section a {
+div.downloadthesis section a {
+	text-align: center;
 	color: black;
 	text-decoration: none;
 	float: center;
 	margin: 0 0;
 }
-.downloadthesis section a:hover {
+div.downloadthesis section a:hover {
 	color: #405580;
 	text-decoration: underline;
 	font-weight: none;
