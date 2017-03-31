@@ -118,22 +118,26 @@ div.thesispage section {
 	margin-top: 10%;
 	text-align: center;
 }
-.downloadthesis section a {
+.box {
 	font-weight: bold;
 	-webkit-transition: all .5s;
-	-webkit-border-radius: 5px;
+	border-radius: 5px;
 	line-height: 50px;
-	color:#222222;
-	background: grey;
-	width: 200px;
+	color:white;
+	background: #405580;
+	width: auto;
 	text-align: center;
+	padding: 2% 2%;
 	box-shadow: 1px 1px 5px rgba(0,0,0,.5),
 		0px 0px 0px 1px rgba(0,0,0,.1);
 }
-.downloadthesis section a:hover {
-	color: white;
-	background: #333;
+.box:hover {
+	color: #e3e3e3;
+	background: black;
 	cursor: pointer;
+}
+.button {
+	text-align: center;
 }
 .clear {
 	clear: both;
@@ -240,4 +244,3 @@ footer.second {
 		padding-top: 20%;
 	}
 }
-
