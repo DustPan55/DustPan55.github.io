@@ -113,9 +113,10 @@ section {
 	margin: 2% 2%;
 	text-align: center;
 }
-.thesispage {
+section.thesispage {
 	width: auto;
-	margin: 2%;
+	float: center;
+	margin: 2% 2%;
 	text-align: center;
 }
 .clear {
