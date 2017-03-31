@@ -145,6 +145,7 @@ footer {
 }
 footer p, footer h3 {
 	color: #FFF;
+	text-align: center;
 }
 
 footer p a {
