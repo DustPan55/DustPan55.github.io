@@ -122,8 +122,10 @@ div.downloadthesis section a {
 	text-align: center;
 	color: black;
 	text-decoration: none;
-	float: center;
-	margin: 0 0;
+	margin-right: 35%;
+	margin-left: 35%;
+	margin top: 5%;
+	
 }
 div.downloadthesis section a:hover {
 	color: #405580;
