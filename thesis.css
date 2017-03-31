@@ -127,7 +127,7 @@ div.thesispage section {
 	background: #405580;
 	width: auto;
 	text-align: center;
-	padding: 2% 2%;
+	margin: auto;
 	box-shadow: 1px 1px 5px rgba(0,0,0,.5),
 		0px 0px 0px 1px rgba(0,0,0,.1);
 }
@@ -139,6 +139,13 @@ div.thesispage section {
 .button {
 	text-align: center;
 }
+
+.synthetic {
+	width: 100%;
+	height: auto;
+		
+}
+
 .clear {
 	clear: both;
 }
