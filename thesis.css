@@ -1,0 +1,65 @@
+div.thesispage section {
+	width: auto;
+	margin-top: 5%;
+	text-align: left;
+}
+.box {
+	display: inline-block;
+	font-weight: bold;
+	-webkit-transition: all .5s;
+	border-radius: 5px;
+	line-height: 3%;
+	color:white;
+	background: #405580;
+	width: auto;
+	text-align: center;
+	margin: auto;
+	padding: 2%;
+	box-shadow: 1px 1px 5px rgba(0,0,0,.5),
+		0px 0px 0px 1px rgba(0,0,0,.1);
+}
+.box:hover {
+	color: #e3e3e3;
+	background: black;
+	cursor: pointer;
+}
+.button {
+	text-align: center;
+	
+}
+
+.synthetic {
+	width: auto;
+	height: auto;
+		
+}
+
+/*-------------MEDIA-----------*/
+@media screen and (max-width: 478px) {
+	body {
+		position: absolute;
+	}	
+}
+@media screen and (max-width: 740px) {
+
+	.box {
+		display: inline-block;
+		font-weight: bold;
+		-webkit-transition: all .5s;
+		border-radius: 5px;
+		line-height: 10px;
+		color:white;
+		background: #405580;
+		width: auto;
+		text-align: center;
+		margin: auto;
+		padding: 2%;
+		box-shadow: 1px 1px 5px rgba(0,0,0,.5),
+			0px 0px 0px 1px rgba(0,0,0,.1);
+	}
+	div.thesispage section {
+		width: auto;
+		margin-top: 18%;
+		text-align: left;
+	}
+}
