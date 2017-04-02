@@ -161,6 +161,12 @@ ul.social li {
 ul.social li img {
 	height: 50px;
 }
+.footericon section img {
+	border-radius: 10px;
+	padding-top: 15px; 
+	height: 130px;
+	width: auto;
+}
 
 footer.second {
 	border-top: 1px solid #4D4E50;
