@@ -189,7 +189,6 @@ footer.second section {
 	width: 45%;
 	float: left;
 	text-align: center;
-	display: block;
 }
 footer.second section div p {
 	font-weight: bold;
@@ -250,6 +249,15 @@ footer.second section div p {
 	}
 	footer section ul {
 		padding-top: 5px;	
+	}
+	
+	footer.second section{
+		border-top: 1px solid #4D4E50;
+		background-color: #333333;
+		max-height: 50px;
+		text-align: center;
+		opacity: 0.95;
+		padding-bottom: 20px;
 	}
 }
 
