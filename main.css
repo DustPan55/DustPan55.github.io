@@ -192,6 +192,7 @@ footer.second section {
 }
 footer.second section p {
 	text-decoration: bold;
+	padding: none;
 }
 
 
