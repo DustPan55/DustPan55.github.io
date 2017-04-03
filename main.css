@@ -135,6 +135,9 @@ article {
 	height: auto;
 	padding: 4%;
 }
+article img {
+	border-radius: 60px;
+}
 aside {
 	float: right;
 	margin: 0 auto;
