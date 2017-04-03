@@ -218,6 +218,9 @@ footer.second {
 	nav:hover ul {
 		display: block;
 	}
+	.slides {
+		border-radius: none;	
+	}
 	section {
 		float: left;
 		width: 100%;
