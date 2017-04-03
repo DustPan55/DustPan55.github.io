@@ -113,9 +113,6 @@ nav ul li {
 	max-width: 960px;
 	margin-top: 110px;
 }
-.slides {
-	border-radius: 25px;	
-}
 section {
 	width: 29%;
 	float: left;
@@ -134,9 +131,6 @@ article {
 	width: 50%;
 	height: auto;
 	padding: 4%;
-}
-article img {
-	border-radius: 60px;
 }
 aside {
 	float: right;
@@ -220,9 +214,6 @@ footer.second {
 	}
 	nav:hover ul {
 		display: block;
-	}
-	.slides {
-		border-radius: 0px;	
 	}
 	section {
 		float: left;
