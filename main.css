@@ -189,7 +189,7 @@ footer.second section {
 	width: 45%;
 	float: left;
 	text-align: center;
-	display: inline-block;
+	display: block;
 }
 footer.second section div p {
 	font-weight: bold;
