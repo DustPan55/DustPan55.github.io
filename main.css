@@ -188,8 +188,10 @@ footer.second {
 footer.second section {
 	width: 45%;
 	float: left;
-	text-align: center;
-	margin: 1% 1%;	
+	text-align: center;	
+}
+footer.second section p {
+	text-decoration: bold;
 }
 
 
