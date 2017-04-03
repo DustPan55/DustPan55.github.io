@@ -252,10 +252,8 @@ footer.second section p {
 	}
 	
 	footer.second section {
-		width: 80%;
-		float: center;
-		text-align: center;
-		
+		width: 100%;
+		text-align: center;	
 	}
 }
 
