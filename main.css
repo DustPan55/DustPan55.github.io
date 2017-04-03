@@ -253,8 +253,7 @@ footer.second section p {
 	
 	footer.second section {
 		width: 80%;
-		float: left;
-		margin: 2% 2%;
+		float: center;
 		text-align: center;
 		display: block;
 		
