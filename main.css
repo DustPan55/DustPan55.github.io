@@ -191,7 +191,7 @@ footer.second section {
 	text-align: center;	
 }
 footer.second section div p {
-	text-decoration: bold;
+	font-weight: bold;
 	padding: 0px;
 }
 
