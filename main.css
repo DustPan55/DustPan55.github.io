@@ -219,7 +219,7 @@ footer.second {
 		display: block;
 	}
 	.slides {
-		border-radius: none;	
+		border-radius: 0px;	
 	}
 	section {
 		float: left;
