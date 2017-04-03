@@ -190,7 +190,7 @@ footer.second section {
 	float: left;
 	text-align: center;
 }
-footer.second section div p {
+footer.second section p {
 	font-weight: bold;
 	padding: 0px;
 }
@@ -251,13 +251,15 @@ footer.second section div p {
 		padding-top: 5px;	
 	}
 	
-	footer.second section{
+	footer.second section {
 		border-top: 1px solid #4D4E50;
 		background-color: #333333;
 		max-height: 50px;
 		text-align: center;
 		opacity: 0.95;
 		padding-bottom: 20px;
+		width: 29%;
+		
 	}
 }
 
