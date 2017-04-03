@@ -184,6 +184,7 @@ footer.second {
 	text-align: center;
 	opacity: 0.95;
 	padding-bottom: 20px;
+	display: block;
 }
 /*-------------MEDIA-----------*/
 @media screen and (max-width: 478px) {
