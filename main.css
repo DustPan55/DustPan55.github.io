@@ -186,12 +186,12 @@ footer.second {
 	padding-bottom: 20px;
 }
 footer.second section {
-	width: 50%;
+	width: 45%;
 	float: left;
 	text-align: center;
-	margin: 1% 1%;
-	
+	margin: 1% 1%;	
 }
+
 
 /*-------------MEDIA-----------*/
 @media screen and (max-width: 478px) {
