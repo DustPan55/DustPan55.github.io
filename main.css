@@ -252,13 +252,11 @@ footer.second section p {
 	}
 	
 	footer.second section {
-		border-top: 1px solid #4D4E50;
-		background-color: #333333;
-		max-height: 50px;
-		text-align: center;
-		opacity: 0.95;
-		padding-bottom: 20px;
 		width: 29%;
+		float: left;
+		margin: 2% 2%;
+		text-align: center;
+		display: inline-block
 		
 	}
 }
