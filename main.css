@@ -174,7 +174,7 @@ ul.social li img {
 	width: auto;
 }
 footer section ul {
-	padding-top: 40px;	
+	padding-top: 25px;	
 }
 
 footer.second {
@@ -235,6 +235,9 @@ footer.second {
 		width: 100%;
 		margin: 0;
 		padding: 0;
+	}
+	footer section ul {
+		padding-top: 5px;	
 	}
 }
 
