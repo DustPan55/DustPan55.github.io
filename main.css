@@ -188,7 +188,8 @@ footer.second {
 footer.second section {
 	width: 45%;
 	float: left;
-	text-align: center;	
+	text-align: center;
+	display: inline-block;
 }
 footer.second section div p {
 	font-weight: bold;
